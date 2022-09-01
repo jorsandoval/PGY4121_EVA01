@@ -1,0 +1,7 @@
+{
+  "name": "PGY4121_EVA01",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
